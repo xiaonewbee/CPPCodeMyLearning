@@ -17,3 +17,9 @@ int main()
         std::cout << elem << (--s ? ", " : " ");
     std::cout << "}\n";
 }
+
+
+int main(){
+    
+}
+    std::array<double, 4ul> arr = make_array(1, 2.71f, 3.14, '*');
